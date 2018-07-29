@@ -412,6 +412,24 @@
 						}
 					],
 					"updated": "18-11-2017"
+				},
+				{
+					"prettyName": "e1pex_VolumeControl",
+					"icon": "fa-lightbulb-o",
+					"name": "e1pex_volumecontrol",
+					"version": "0.1.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/system_controller/e1pex_volumecontrol/e1pex_volumecontrol.zip",
+					"license": "ISC",
+					"description": "Volume Control using SparkFun Rotary Encoder COM-10982",
+					"details": "Plugin to control volume using a Sparkfun COM-10596 Rotary Encoder. ",
+					"author": "e1pex",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "29-7-2018"
 				}
 			]
 		},
